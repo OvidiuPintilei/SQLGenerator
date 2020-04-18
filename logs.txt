@@ -1,0 +1,4 @@
+INSERT INTO items VALUES ('Pen','Bob');
+INSERT INTO items VALUES ('bunica','14');
+INSERT INTO items VALUES ('Pencil','Ana');
+INSERT INTO items VALUES ('Note','Dan');
